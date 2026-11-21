@@ -1,0 +1,62 @@
+[
+  {
+    "id": "h-112",
+    "name": "National Emergency Helpline",
+    "number": "112",
+    "category": "All Emergencies / Police / Fire / Medical",
+    "available": "24x7",
+    "toll_free": true,
+    "description": "Single emergency response support system across India",
+    "note": "verify before real use in production"
+  },
+  {
+    "id": "h-108",
+    "name": "Emergency Medical & Ambulance",
+    "number": "108",
+    "category": "Ambulance / Health Emergency",
+    "available": "24x7",
+    "toll_free": true,
+    "description": "Free emergency ambulance and paramedic dispatch",
+    "note": "verify before real use in production"
+  },
+  {
+    "id": "h-100",
+    "name": "Police Control Room",
+    "number": "100",
+    "category": "Police",
+    "available": "24x7",
+    "toll_free": true,
+    "description": "Immediate law enforcement & search assist",
+    "note": "verify before real use in production"
+  },
+  {
+    "id": "h-101",
+    "name": "Fire & Rescue Services",
+    "number": "101",
+    "category": "Fire & Rescue",
+    "available": "24x7",
+    "toll_free": true,
+    "description": "Fire tenders, flood water evacuation units",
+    "note": "verify before real use in production"
+  },
+  {
+    "id": "h-1070",
+    "name": "State Disaster Management Control Room (ASDMA)",
+    "number": "1070",
+    "category": "Disaster Response HQ",
+    "available": "24x7 during emergencies",
+    "toll_free": true,
+    "description": "State-level emergency operations center coordination",
+    "note": "verify before real use in production"
+  },
+  {
+    "id": "h-1077",
+    "name": "District Emergency Operations Center (DEOC)",
+    "number": "1077",
+    "category": "District Control",
+    "available": "24x7 during alert",
+    "toll_free": true,
+    "description": "Direct line to Deputy Commissioner / District Disaster Authority",
+    "note": "verify before real use in production"
+  }
+]

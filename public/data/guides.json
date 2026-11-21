@@ -1,0 +1,221 @@
+[
+  {
+    "id": "guide-flood",
+    "hazard": "FLOOD",
+    "title": "Flood & Waterlogging Safety",
+    "title_as": "বানপানী আৰু জলমগ্নতা সুৰক্ষা",
+    "title_hi": "बाढ़ और जलभराव सुरक्षा",
+    "icon": "Waves",
+    "phases": {
+      "before": {
+        "title": "Before / Early Warning",
+        "title_as": "বানপানীৰ আগতে",
+        "title_hi": "बाढ़ से पहले",
+        "items": [
+          "Pack an emergency grab-bag: Aadhaar/Voter IDs in waterproof pouches, essential medicines for 7 days, torch, whistle, power bank.",
+          "Identify the highest ground or designated relief camp in your village/ward.",
+          "Keep drinking water stored in clean, covered plastic containers.",
+          "Untie livestock so they can swim to safety if water rises rapidly."
+        ],
+        "items_as": [
+          "জৰুৰী বেগ সাজু ৰাখক: জলৰোধী মোনাত আধাৰ/ভোটাৰ কাৰ্ড, ৭ দিনৰ প্ৰয়োজনীয় ঔষধ, টৰ্চ, হুইচেল, পাৱাৰ বেংক।",
+          "আপোনাৰ গাঁও বা ৱাৰ্ডৰ ওখ স্থান বা আশ্ৰয় শিবিৰ চিনি ৰাখক।",
+          "বিশুদ্ধ খোৱাপানী ঢাকনি থকা পাত্ৰত সাঁচি ৰাখক।",
+          "পানী বৃদ্ধি পালে পশুধন মুক্ত কৰি দিয়ক যাতে সিহঁতে সাঁতুৰি ওখ স্থানলৈ যাব পাৰে।"
+        ],
+        "items_hi": [
+          "एक आपातकालीन बैग तैयार रखें: वाटरप्रूफ पाउच में आधार/पहचान पत्र, 7 दिनों की दवाइयां, टॉर्च, सीटी, पावर बैंक।",
+          "अपने गांव या वार्ड में सबसे ऊंचे स्थान या नामित राहत शिविर की पहचान करें।",
+          "पीने का साफ पानी ढके हुए बर्तनों में जमा करके रखें।",
+          "मवेशियों को खोल दें ताकि पानी बढ़ने पर वे सुरक्षित तैर सकें।"
+        ]
+      },
+      "during": {
+        "title": "During the Flood",
+        "title_as": "বানপানী চলি থকাৰ সময়ত",
+        "title_hi": "बाढ़ के दौरान",
+        "items": [
+          "Never attempt to walk, swim, or drive through flowing water. Just 6 inches of rapid water can knock you down.",
+          "Switch off main electricity breaker and gas cylinder valves before evacuating.",
+          "Move immediately to upper floors, raised platforms (chang ghar), or school roof.",
+          "Avoid contact with floodwater to prevent leptospirosis, snakebites, and sewage contamination."
+        ],
+        "items_as": [
+          "বৈ থকা পানীৰ মাজেৰে খোজ কাঢ়িবলৈ বা বাহন চলাবলৈ কেতিয়াও চেষ্টা নকৰিব। মাত্ৰ ৬ ইঞ্চিৰ পানীয়ে মানুহ পেলাই দিব পাৰে।",
+          "ঘৰ এৰাৰ আগতে বিজুলীৰ মেইন চুইচ আৰু গেছ চিলিণ্ডাৰ বন্ধ কৰক।",
+          "লগে লগে ওখ ঘৰ, চাং ঘৰ বা ওখ নিৰাপদ স্থানলৈ যাওক।",
+          "সাপৰ দংশন আৰু সংক্ৰমণৰ পৰা বাচিবলৈ বানৰ পানী স্পৰ্শ নকৰিব।"
+        ],
+        "items_hi": [
+          "बहते पानी में पैदल चलने या गाड़ी चलाने की कोशिश कभी न करें। मात्र 6 इंच पानी आपको बहा सकता है।",
+          "घर छोड़ने से पहले मेन बिजली स्विच और गैस सिलेंडर बंद कर दें।",
+          "तुरंत ऊपरी मंजिल, चांग घर या सुरक्षित पक्के स्थान पर जाएं।",
+          "सांप के काटने और संक्रमण से बचने के लिए बाढ़ के गंदे पानी से दूर रहें।"
+        ]
+      },
+      "after": {
+        "title": "After Floodwaters Recede",
+        "title_as": "বানপানী হ্ৰাস পোৱাৰ পিছত",
+        "title_hi": "बाढ़ उतरने के बाद",
+        "items": [
+          "Boil all drinking water vigorously for at least 1 minute or use Halazone/chlorine purification tablets.",
+          "Do not touch electrical wiring until checked by a certified technician.",
+          "Inspect walls and foundations for structural cracks and washouts before entering.",
+          "Watch out for snakes and insects hiding in damp corners, cupboards, and bedding."
+        ],
+        "items_as": [
+          "খোৱাপানী কমেও ১ মিনিট ভালদৰে উতলাই বা ক্ল'ৰিন টেবলেট ব্যৱহাৰ কৰিহে খাব।",
+          "কাৰিকৰী পৰীক্ষা অবিহনে তিতা বিজুলীৰ তাঁৰ স্পৰ্শ নকৰিব।",
+          "ঘৰত সোমোৱাৰ আগতে ভেটি আৰু দেৱালৰ ফাট পৰীক্ষা কৰক।",
+          "সেমেকা কোণ আৰু বিচনাৰ তলত লুকাই থকা সাপ আৰু বিষাক্ত কীটৰ পৰা সাৱধান হওক।"
+        ],
+        "items_hi": [
+          "पीने के पानी को कम से कम 1 मिनट तक उबालें या क्लोरीन की गोलियों का उपयोग करें।",
+          "गीले बिजली के तारों और स्विच बोर्ड को बिल्कुल न छुएं।",
+          "घर में प्रवेश करने से पहले दीवारों और नींव की दरारें जांचें।",
+          "अंदर छिपे हुए सांपों और कीड़े-मकोड़ों से सतर्क रहें।"
+        ]
+      }
+    }
+  },
+  {
+    "id": "guide-landslide",
+    "hazard": "LANDSLIDE",
+    "title": "Landslide & Slope Failure Safety",
+    "title_as": "ভূমিস্খলন সুৰক্ষা ব্যৱস্থা",
+    "title_hi": "भूस्खलन (लैंडस्लाइड) सुरक्षा",
+    "icon": "Mountain",
+    "phases": {
+      "before": {
+        "title": "Before / Warning Signs",
+        "title_as": "ভূমিস্খলনৰ পূৰ্বে",
+        "title_hi": "भूस्खलन से पहले",
+        "items": [
+          "Look for warning signs: sudden tilting of trees/utility poles, cracks appearing on hill slope roads or walls.",
+          "Listen for unusual sounds: cracking trees, rumbling boulders, or sudden muddiness in clear hill streams.",
+          "Avoid building or staying in natural drainage gullies or steep toe-slopes during incessant monsoon downpours."
+        ],
+        "items_as": [
+          "লক্ষণলৈ লক্ষ্য কৰক: গছ বা বিজুলীৰ খুঁটা হেলনীয়া হোৱা, পাহাৰৰ ঢালৰ পথত ফাট মেলা।",
+          "অস্বাভাৱিক শব্দ শুনা: শিল বাগৰি অহা বা গছ ভঙাৰ শব্দ, নিজৰাৰ পানী হঠাৎ বোকাযুক্ত হোৱা।",
+          "পাহাৰৰ খহনীয়া আৰু পানীৰ স্বাভাবিক নলাৰ কাষত অবিৰত বৰষুণৰ সময়ত নাথাকিব।"
+        ],
+        "items_hi": [
+          "चेतावनी के संकेत देखें: पेड़ों या खंभों का झुकना, ढलान और दीवारों में अचानक दरारें आना।",
+          "असामान्य आवाज़ों को सुनें: पत्थरों के टकराने या गड़गड़ाहट की आवाज, पहाड़ी नालों में अचानक मटमैला पानी आना।",
+          "लगातार भारी बारिश के दौरान खड़ी पहाड़ी ढलानों या प्राकृतिक नालों के पास न रहें।"
+        ]
+      },
+      "during": {
+        "title": "During a Landslide",
+        "title_as": "ভূমিস্খলনৰ সময়ত",
+        "title_hi": "भूस्खलन के दौरान",
+        "items": [
+          "Move away from the path of debris immediately. Run sideways perpendicular to the slope, not downslope.",
+          "If trapped and escape is impossible, curl into a tight ball and protect your head with your arms or heavy furniture.",
+          "Keep stranded highway vehicles clear of steep overhangs; retreat to a wide open clearing."
+        ],
+        "items_as": [
+          "লগে লগে মাটি আৰু শিল খহি অহা পথৰ পৰা আঁতৰি যাওক। ঢালৰ সমান্তৰালভাৱে কাষলৈ দৌৰক।",
+          "যদি ওলাই যোৱা অসম্ভৱ, মাটিত বহি নিজৰ মূৰটো দুয়োহাতেৰে বা মজবুত মেজৰ তলত সুৰক্ষিত কৰক।",
+          "পাহাৰীয়া ঘাইপথত আৱদ্ধ হ'লে ওখ পাহাৰৰ খাঁজৰ পৰা আঁতৰি মুকলি ঠাইত বাহন ৰাখক।"
+        ],
+        "items_hi": [
+          "मलबे के रास्ते से तुरंत हटें। ढलान की ओर नहीं, बल्कि ढलान के लंबवत (किनारे की तरफ) भागें।",
+          "यदि बचना संभव न हो, तो सिर को दोनों हाथों से ढककर किसी मजबूत वस्तु के नीचे छिप जाएं।",
+          "हाइवे पर फंसे होने पर खतरनाक ढलानों के नीचे वाहन न रोकें, खुली जगह पर जाएं।"
+        ]
+      },
+      "after": {
+        "title": "After Slope Movement",
+        "title_as": "ভূমিস্খলনৰ পিছত",
+        "title_hi": "भूस्खलन के बाद",
+        "items": [
+          "Stay alert for secondary slides! Disturbed slopes frequently collapse a second time hours later.",
+          "Report broken utility poles, snapped wires, and blocked highway stretches to authorities and NE Connect.",
+          "Do not enter damaged houses on slopes until verified safe by civil engineers."
+        ],
+        "items_as": [
+          "দ্বিতীয়বাৰ ভূমিস্খলন হোৱাৰ সম্ভাৱনালৈ সতৰ্ক থাকক।",
+          "ছিঙি পৰা বিজুলী তাঁৰ আৰু বন্ধ ঘাইপথৰ তথ্য প্ৰশাসন আৰু নৰ্থ-ইষ্ট কানেক্টত জনাওক।",
+          "পৰীক্ষা নকৰাকৈ পাহাৰৰ কাষৰ ক্ষতিগ্ৰস্ত ঘৰত প্ৰৱেশ নকৰিব।"
+        ],
+        "items_hi": [
+          "दूसरे भूस्खलन के खतरे से सतर्क रहें! ढीली मिट्टी कुछ घंटों बाद दोबारा खिसक सकती है।",
+          "टूटे हुए बिजली के तारों और अवरुद्ध सड़कों की सूचना तुरंत दें।",
+          "जब तक इंजीनियर सुरक्षित न घोषित करें, क्षतिग्रस्त पहाड़ी मकानों में न जाएं।"
+        ]
+      }
+    }
+  },
+  {
+    "id": "guide-earthquake",
+    "hazard": "EARTHQUAKE",
+    "title": "Earthquake Safety (Zone V)",
+    "title_as": "ভূমিকম্প সুৰক্ষা (মণ্ডল ৫)",
+    "title_hi": "भूकंप सुरक्षा (जोन 5)",
+    "icon": "Activity",
+    "phases": {
+      "before": {
+        "title": "Preparedness",
+        "title_as": "পূৰ্বপ্ৰস্তুতি",
+        "title_hi": "पूर्व तैयारी",
+        "items": [
+          "Northeast India is situated in High Seismic Zone V. Secure tall almirahs, gas cylinders, and ceiling fans.",
+          "Designate a safe family meeting point in an open park or field free from overhead power lines.",
+          "Practice 'DROP, COVER, HOLD ON' with family members regularly."
+        ],
+        "items_as": [
+          "উত্তৰ-পূৰ্বাঞ্চল অতি বিপজ্জনক চিছমিক মণ্ডল ৫-ত অৱস্থিত। ওখ আলমাৰী আৰু গেছ চিলিণ্ডাৰ দেৱালত বান্ধি থওক।",
+          "পৰিয়ালৰ সকলোৱে মিলি খোলা ঠাইত একত্ৰিত হোৱাৰ স্থান ঠিক কৰি থওক।",
+          "'DROP, COVER, HOLD ON' অনুশীলন নিয়মীয়াকৈ কৰক।"
+        ],
+        "items_hi": [
+          "पूर्वोत्तर भारत अति संवेदनशील जोन 5 में है। भारी अलमारियों और गैस सिलेंडरों को सुरक्षित बांधें।",
+          "खुले मैदान में एक निश्चित पारिवारिक मिलन बिंदु तय करें जहां बिजली के तार न हों।",
+          "'झुको, ढको, पकड़ो' (DROP, COVER, HOLD ON) का अभ्यास करें।"
+        ]
+      },
+      "during": {
+        "title": "During Shaking",
+        "title_as": "কঁপনিৰ সময়ত",
+        "title_hi": "कंपन के दौरान",
+        "items": [
+          "DROP to your hands and knees. COVER your head and neck under a sturdy table. HOLD ON until shaking stops.",
+          "If indoors, stay indoors! Do not rush for exits or use elevators.",
+          "If outdoors, move away from buildings, glass facades, brick walls, and electric transformers."
+        ],
+        "items_as": [
+          "মাটিত আঁঠু লৈ বহি পৰক। মজবুত মেজৰ তলত মূৰ আৰু ডিঙি ঢাকি ৰাখক। কঁপনি নথমালৈকে ধৰি ৰাখক।",
+          "ঘৰৰ ভিতৰত থাকিলে ভিতৰতে থাকক! হুৰমুৰকৈ দুৱাৰলৈ দৌৰি নাযাব বা লিফ্ট ব্যৱহাৰ নকৰিব।",
+          "বাহিৰত থাকিলে অট্টালিকা, গ্লাছৰ খিৰিকী আৰু ট্ৰান্সফৰ্মাৰৰ পৰা আঁতৰি খোলা ঠাইলৈ যাওক।"
+        ],
+        "items_hi": [
+          "हाथ और घुटनों के बल बैठें। मजबूत मेज के नीचे सिर और गर्दन को ढंकें। कंपन रुकने तक पकड़े रहें।",
+          "यदि आप अंदर हैं, तो अंदर ही रहें! भगदड़ न मचाएं और लिफ्ट का उपयोग बिल्कुल न करें।",
+          "यदि बाहर हैं, तो इमारतों, कांच और बिजली के खंभों से दूर खुली जगह में चले जाएं।"
+        ]
+      },
+      "after": {
+        "title": "After the Quake",
+        "title_as": "ভূমিকম্পৰ পিছত",
+        "title_hi": "भूकंप के बाद",
+        "items": [
+          "Expect aftershocks. Be prepared to Drop, Cover, and Hold on again.",
+          "Check for gas leaks by smell. If suspected, open windows and leave immediately without operating light switches.",
+          "Wear sturdy closed shoes to avoid cuts from broken glass and debris."
+        ],
+        "items_as": [
+          "অনুকম্পনৰ বাবে সাজু থাকক। পুনৰ কঁপনি অনুভৱ হ'লে সুৰক্ষা লওক।",
+          "গেছ নিৰ্গমনৰ গোন্ধ পালে চুইচ অন নকৰাকৈ খিৰিকী খুলি তৎক্ষণাত ওলাই যাওক।",
+          "ভঙা কাঁচ আৰু ধ্বংসাৱশেষৰ পৰা ৰক্ষা পাবলৈ মজবুত জোতা পিন্ধক।"
+        ],
+        "items_hi": [
+          "आफ्टरशॉक (झटकों) के लिए तैयार रहें। फिर से सुरक्षित स्थान पर शरण लें।",
+          "गैस रिसाव की गंध आने पर कोई भी स्विच न दबाएं, खिड़कियां खोलें और तुरंत बाहर निकलें।",
+          "टूटे हुए कांच और मलबे से पैरों को बचाने के लिए जूते पहनें।"
+        ]
+      }
+    }
+  }
+]
